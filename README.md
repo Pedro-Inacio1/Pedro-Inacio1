@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá 👋, eu sou Pedro Inácio
 
-<!--
-**Pedro-Inacio1/Pedro-Inacio1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Atualmente estudando: Desenvolvimento Web, IA  
+- 💼 Trabalho com: JavaScript, TypeScript, React, Node.js  
+- 🚀 Em busca de oportunidades como Desenvolvedor Fullstack  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Frontend:** React, TailwindCSS, Bootstrap, TypeScript  
+**Backend:** Node.js, Express, PostgreSQL  
+**Ferramentas:** Git, Jest  
+
+---
+
+## Contato
+- ✉️ Email: pedroinacio061@hotmail.com  
+- 💼 LinkedIn: [www.linkedin.com/in/pedro-inácio-303535271](https://www.linkedin.com/in/pedro-in%C3%A1cio-303535271)  
+
+---
+
+_"Transformando ideias em código eficiente."_
